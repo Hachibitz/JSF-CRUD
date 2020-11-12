@@ -2,9 +2,11 @@ CREATE DATABASE  IF NOT EXISTS `student_tracker` /*!40100 DEFAULT CHARACTER SET 
 USE `student_tracker`;
 
 DROP TABLE IF EXISTS `student`;
+
 --
 -- Criar a tabela e pré-alocar dados
 --
+
 CREATE TABLE `student` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `first_name` varchar(45) DEFAULT NULL,
