@@ -1,8 +1,7 @@
 # JSF-CRUD
 Aplicação para registro de estudantes JSF com JDBC.
 
-A aplicação foi desenvolvida com Java Web (Java EE em JavaServer Faces).
-Conforme Item A.
+A aplicação foi desenvolvida com Java Web (Java EE e JavaServer Faces).
 
 O banco de dados utilizado na implementação de persistência foi o MySQL.
 
